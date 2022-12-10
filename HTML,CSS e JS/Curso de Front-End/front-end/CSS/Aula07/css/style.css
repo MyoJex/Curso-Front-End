@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*
+*
+*
+Estilo para conteúdo do nosso site.
+*
+*
+*/
+
+html, body {
+  height: 100%;
+}
+
+.lista, .lista-2 {
+  list-style-position: inside;
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.lista li, .lista-2 li {
+  font-size: 20px;
+  color: #4b4b4b;
+  margin-top: 10px;
+}
+
+.lista .item-3, .lista-2 .item-3 {
+  font-weight: bold;
+}
+
+/*.lista li.item-3 {
+  color: orange;
+}
+*/
+
+.lista-3 {
+margin: 25px;
+list-style-type: square;
+list-style-position: inside;
+}
