@@ -23,6 +23,7 @@ html,body {
 }
 
 .artigo {
+    box-sizing: border-box;
     vertical-align: top;
     display: inline-block;
     border: 5px dotted rgba(0,0,0,1);    
@@ -32,4 +33,5 @@ html,body {
     width: 465px;       
     margin-top: 20px;
     margin-right: -4px;
+    margin-left: 6px;
 }
