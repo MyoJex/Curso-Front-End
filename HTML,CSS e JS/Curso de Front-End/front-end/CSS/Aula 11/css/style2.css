@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*
+*
+*
+Estilo para o conteúdo do nosso site
+*
+*
+*/
+
+html,body {
+    height: 100%;
+}
+
+span {
+    width: 30px;
+    height: 300px;
+    background: royalblue;
+}
+
+p {
+    display: inline-block;
+    width: 50px;
+    height: 150px;
+    margin-right: -4px;
+    background: peru;
+}
